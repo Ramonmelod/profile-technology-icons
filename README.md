@@ -91,7 +91,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 |                                                        Technology Icon                                                        |  Technology Name   | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :----------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> |        Vim         | `https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png` |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"> |      IntelliJ       | `https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png` |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"> |      IntelliJ      | `https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png"> |      WebStorm      | `https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png"> |   Android Studio   | `https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png"> |      AppCode       | `https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png` |
@@ -102,6 +102,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"> |    Sublime Text    | `https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"> |      Postman       | `https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"> |        Jira        | `https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/be791591-7b5a-4ada-9331-ff577f71a530"> |       Spyder       | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/be791591-7b5a-4ada-9331-ff577f71a530`|
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"> |  Jupyter Notebook  | `https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png"> |     SonarQube      | `https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37"> |     Neovim      | `https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/258326081-b113a23c-5c04-45aa-819c-bd04e8ac2a37.png` |
@@ -124,6 +125,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603"> |    Bulma     | `https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/268487504-e5fe87f3-f2ee-419d-8299-14dc573f3603.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b"> |    Strapi     | `https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png` |
 | <img height="50" src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png"> |    Auth0     | `https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a"> |    styled-components     | `https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a` |
+
 
 ### ✨ UI/UX
 
@@ -231,8 +234,9 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> |      Flask      | `https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png"> |     pytest      | `https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4"> |     Django      | `https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4` |
-
-
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f"> |     NumPy      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b"> |     Pandas      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928"> |     Pygame      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928` |
 ### 🐘 php
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
@@ -341,7 +345,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> |       GCP       | `https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png"> |    IBM Cloud    | `https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png` |
-
+| <img height="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b">                       |  Digital Ocean  | `https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b` | 
 
 ### 🤖 AI
 
@@ -396,12 +400,15 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"> |   Arch Linux    | `https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"> |   Linux Mint    | `https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png"> |  elementary OS  | `https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png` |
+| <img height="50" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683">                       |    Kali Linux   | `https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683` |
 
 ### :electric_plug: Microcontrollers 
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |     Arduino      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627` |
+| <img height="50" src="https://github.com/user-attachments/assets/f296f3e7-d7b0-49f7-85f7-234b8dcffdeb">                              |     Coral.ai     | `https://github.com/user-attachments/assets/f296f3e7-d7b0-49f7-85f7-234b8dcffdeb` |
+| <img height="50" src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32">                              |   Raspberri Pi   | `https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32` |
 
 ### 🛜 MQTT technologies
 
